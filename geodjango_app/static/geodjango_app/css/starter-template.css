@@ -1,0 +1,25 @@
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.map {
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+
+.btn-group {
+  z-index: 9999;
+  position:absolute;
+  left: 60px;
+  top:60px;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
